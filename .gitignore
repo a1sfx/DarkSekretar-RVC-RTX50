@@ -1,0 +1,42 @@
+# Модели и веса (скачайте отдельно)
+*.pt
+*.pth
+*.onnx
+*.index
+
+# Папки с моделями
+logs/
+weights/
+pretrained/
+pretrained_v2/
+uvr5_weights/
+assets/hubert/
+assets/pretrained/
+assets/uvr5_weights/
+
+# Виртуальное окружение
+runtime/
+
+# Кэш и временные файлы
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.log
+
+# Аудио
+audio-outputs/
+audios/
+opt/
+
+# Большие бинарники
+stftpitchshift/
+*.exe
+*.lib
+
+# Конфиги пользователя
+user_config.json
+values1.json
+default_performance_value/
+formantshiftcfg/
+inference-presets.json
