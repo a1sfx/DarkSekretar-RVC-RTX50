@@ -1,6 +1,6 @@
-# DarkSekretar-RVC-RTX50
+В старой версии были проблемы с поддержкой 50 серии, незнаю как на амд, но протестил исправил пару моментов
 
-**Форк Mangio-RVC v23.7.0 для NVIDIA RTX 50 series (Blackwell sm_120)**
+**Форк RVC для NVIDIA RTX 50 series (Blackwell sm_120)**
 
 Протестировано: **RTX 5060 Ti 16GB, PyTorch 2.8.0+cu128, CUDA 12.8**
 
@@ -22,4 +22,4 @@ python infer-web.py
 
 ## Автор
 
-DarkSekretar (a1sfx)
+DarkSekretar 
